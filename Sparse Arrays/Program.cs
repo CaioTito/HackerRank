@@ -29,7 +29,7 @@ class Solution
 {
     public static void Main(string[] args)
     {
-        //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+        TextWriter textWriter = new StreamWriter("C:\\Users\\caio_\\source\\repos\\HackerRank\\Sparse Arrays\\output.txt", true);
 
         int stringsCount = Convert.ToInt32(Console.ReadLine().Trim());
 
@@ -53,9 +53,9 @@ class Solution
 
         List<int> res = Result.matchingStrings(strings, queries);
 
-        //textWriter.WriteLine(String.Join("\n", res));
+        textWriter.WriteLine(String.Join("\n", res));
 
-        //textWriter.Flush();
-        //textWriter.Close();
+        textWriter.Flush();
+        textWriter.Close();
     }
 }
