@@ -1,0 +1,15 @@
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\bin\Debug\net7.0\Sparse Arrays.exe
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\bin\Debug\net7.0\Sparse Arrays.deps.json
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\bin\Debug\net7.0\Sparse Arrays.runtimeconfig.json
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\bin\Debug\net7.0\Sparse Arrays.dll
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\bin\Debug\net7.0\Sparse Arrays.pdb
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.csproj.AssemblyReference.cache
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.AssemblyInfoInputs.cache
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.AssemblyInfo.cs
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.csproj.CoreCompileInputs.cache
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.dll
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\refint\Sparse Arrays.dll
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.pdb
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\Sparse Arrays.genruntimeconfig.cache
+C:\Users\caio_\source\repos\HackerRank\Sparse Arrays\obj\Debug\net7.0\ref\Sparse Arrays.dll

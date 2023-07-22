@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping Bits", "Flipping Bits.csproj", "{FB69006F-C6E5-411A-ABC6-2903CA78A75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB69006F-C6E5-411A-ABC6-2903CA78A75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB69006F-C6E5-411A-ABC6-2903CA78A75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB69006F-C6E5-411A-ABC6-2903CA78A75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB69006F-C6E5-411A-ABC6-2903CA78A75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98804492-AA4F-4B7D-BB75-51F958592740}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\caio_\source\repos\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.exe
+C:\Users\caio_\source\repos\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.deps.json
+C:\Users\caio_\source\repos\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.runtimeconfig.json
+C:\Users\caio_\source\repos\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.dll
+C:\Users\caio_\source\repos\Mini-Max Sum\bin\Debug\net7.0\Mini-Max Sum.pdb
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.csproj.AssemblyReference.cache
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.AssemblyInfoInputs.cache
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.AssemblyInfo.cs
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.csproj.CoreCompileInputs.cache
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.dll
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\refint\Mini-Max Sum.dll
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.pdb
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\Mini-Max Sum.genruntimeconfig.cache
+C:\Users\caio_\source\repos\Mini-Max Sum\obj\Debug\net7.0\ref\Mini-Max Sum.dll
