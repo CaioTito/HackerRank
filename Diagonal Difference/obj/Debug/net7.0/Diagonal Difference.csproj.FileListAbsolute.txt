@@ -1,0 +1,15 @@
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\bin\Debug\net7.0\Diagonal Difference.exe
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\bin\Debug\net7.0\Diagonal Difference.deps.json
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\bin\Debug\net7.0\Diagonal Difference.runtimeconfig.json
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\bin\Debug\net7.0\Diagonal Difference.dll
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\bin\Debug\net7.0\Diagonal Difference.pdb
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.csproj.AssemblyReference.cache
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.AssemblyInfo.cs
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.dll
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\refint\Diagonal Difference.dll
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.pdb
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\Diagonal Difference.genruntimeconfig.cache
+C:\Users\caio_\source\repos\HackerRank\Diagonal Difference\obj\Debug\net7.0\ref\Diagonal Difference.dll
